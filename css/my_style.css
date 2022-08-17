@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
     font-family: "Muli", sans-serif;
-    transition: all 1s ease-in-out;
+    transition: all 0.4s ease-in-out;
     background-repeat: no-repeat;
 }
 
@@ -392,7 +392,7 @@ footer .container .footer-logo a{
     color: white;
     padding: 10px;
     margin: 5px;
-    border-radius: 50%;
+    border-radius: 20px;
     background-color: #5a56ec;
 }
 
